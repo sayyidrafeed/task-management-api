@@ -1,0 +1,6 @@
+[install]
+cache = true
+
+[run]
+# Allow reading environment variables from .env
+env = ".env"
